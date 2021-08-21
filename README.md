@@ -9,8 +9,4 @@
 
 ![호텔메인1](https://user-images.githubusercontent.com/83577481/130219221-1bdf6c66-1b1a-4d29-a10b-ffca997045e2.PNG)
 
-![호텔메인2](https://user-images.githubusercontent.com/83577481/130219424-722e6469-18c7-42a0-b6db-bf5b654692e7.PNG)
-
-![호텔메인3](https://user-images.githubusercontent.com/83577481/130219495-9cf52331-88bf-4c95-8587-93b2af25d01e.PNG)
-
 
